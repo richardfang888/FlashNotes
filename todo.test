@@ -1,0 +1,27 @@
+x Implement flashcard listview
+x Implement flashcard deletion, editing, starring
+
+
+2. tts in listview
+3. Implement generate flashcards with notes text
+    x Add scan button on bottom left
+    x Create pop-up dialog to enter notes as text
+    iii. Send prompt to API
+        -check by printing
+    iv. Parse JSON response from API
+        -check by printing
+    v. Create new documents in flashcards collection and get a list of their ids
+    vi. Add all the flashcard ids to the current studyset collection
+4. Implement file uploads
+    x Allow user to upload file from device instead of entering notes as text
+    x Parse uploaded file into cleaned up text
+        x docx
+        x image (jpg, png, jpeg)
+        x pdf
+    iii. Send parsed text to API via same method
+    x Allow user to use camera to scan document and upload that scanned file
+
+
+BUGS:
+render overflow when going out of the document scan page if no file chosen before exiting
+cannot select google docs files

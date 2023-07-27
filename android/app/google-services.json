@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1000528981076",
+    "project_id": "flashnotesflutter",
+    "storage_bucket": "flashnotesflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000528981076:android:cf4716204c55e6e4f451c1",
+        "android_client_info": {
+          "package_name": "com.example.flash_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000528981076-cbnf7mbl22rdgl0mguhj2bnid471iuh3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flash_notes",
+            "certificate_hash": "362aaf4538eb4bfa29288c47a17661ac2498417c"
+          }
+        },
+        {
+          "client_id": "1000528981076-m21o77l3q69rrg8uu11nnm6boqo6fs38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZzF910y8PvJYSXOTjgCXi9PaNnHtZkQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000528981076-bpvgm9j3oqihglaqeq9vdes54mcio0r6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
